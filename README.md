@@ -1,6 +1,6 @@
-# Tenstorrent Projects Documentation 
+<h1 style="display: inline-block;">Tenstorrent Projects Documentation</h1>
+<img src="images/tt.jpg" height="20px" width="20px" alt="TT Logo" style="float: right; margin-left: 10px;">
 
-<img src="images/tt.jpg" height="20px" width="20px"></img>
 
 ## Tenstorrent Performance Sheet Analyzer
 [GitHub](https://github.com/vshenoyTT/perf-sheet-tool) | [Deployment](https://perfsheet.streamlit.app/)
