@@ -28,5 +28,5 @@ A “Web Playground” for Stable Diffusion on Tenstorrent Wormhole devices. A m
 
 The web playground has three components which communicate to form the functioning program. The frontend interface is a simple Streamlit app (`streamlit_app.py`). The backend is split into two components: a Stable Diffusion generation process (`sdserver.py`) and a separate Flask communication server (`flaskserver.py`). The Flask server is used to communicate queries and responses between the frontend and the Stable Diffusion generation process. The diagram below illustrates this flow.
 
-<img src="sd-flow.png"></img>
+<img src="images/sd-flow.png"></img>
 
