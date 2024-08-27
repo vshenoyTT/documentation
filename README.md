@@ -1,5 +1,7 @@
 # Tenstorrent Projects Documentation 
 
+<img src="images/tt.png" height="10px" width="10px"></img>
+
 ## Tenstorrent Performance Sheet Analyzer
 [GitHub](https://github.com/vshenoyTT/perf-sheet-tool) | [Deployment](https://perfsheet.streamlit.app/)
 
